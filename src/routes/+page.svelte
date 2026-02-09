@@ -49,20 +49,7 @@ This is your page!
   <!-- Article Body: The main story text with proper typography -->
   <ArticleBody>
     <p>
-      At the Craig Newmark Graduate School of Journalism at the City University of New York, change is in our DNA. That comes of being born in 2006, as the digital revolution was transforming our profession in ways none of us could have imagined.
-    </p>
-
-    <p>
-      We fashioned a school to teach the latest storytelling, entrepreneurial, and technological skills alongside reporting, writing, and ethics. Beyond that, we’ve crafted a culture that spurns complacency, that isn’t afraid to pivot before the ground under us shifts.
-    </p>
-
-    <p>
-      I also ran out of credits on Copilot. But I installed the Cline thing. 
-    </p>
-
-    
-
-    
+      IS this gonna work
     </p>
   </ArticleBody>
 
